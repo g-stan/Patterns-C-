@@ -1,0 +1,5 @@
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\5\Homework5\Homework5\Homework5\bin\Debug\Homework5.exe.config
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\5\Homework5\Homework5\Homework5\bin\Debug\Homework5.exe
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\5\Homework5\Homework5\Homework5\bin\Debug\Homework5.pdb
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\5\Homework5\Homework5\Homework5\obj\Debug\Homework5.exe
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\5\Homework5\Homework5\Homework5\obj\Debug\Homework5.pdb
