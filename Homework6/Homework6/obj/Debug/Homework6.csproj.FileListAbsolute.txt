@@ -1,0 +1,7 @@
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\5\Homework5\Homework6\Homework6\bin\Debug\Homework6.exe.config
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\bin\Debug\Homework6.exe.config
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\bin\Debug\Homework6.exe
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\bin\Debug\Homework6.pdb
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\obj\Debug\Homework6.exe
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\obj\Debug\Homework6.pdb
+D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\obj\Debug\Homework6.csprojResolveAssemblyReference.cache
