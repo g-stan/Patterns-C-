@@ -5,3 +5,6 @@ D:\Резервы файлов\по предметам УПИ\Аспиранту
 D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\obj\Debug\Homework6.exe
 D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\obj\Debug\Homework6.pdb
 D:\Резервы файлов\по предметам УПИ\Аспирантура\Курс Паттерны проектирования\6\Homework6\Homework6\obj\Debug\Homework6.csprojResolveAssemblyReference.cache
+C:\Users\akjerop\Source\Repos\Patterns-C-\Homework6\Homework6\bin\Debug\Homework6.exe.config
+C:\Users\akjerop\Source\Repos\Patterns-C-\Homework6\Homework6\obj\Debug\Homework6.exe
+C:\Users\akjerop\Source\Repos\Patterns-C-\Homework6\Homework6\obj\Debug\Homework6.pdb
