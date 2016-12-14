@@ -18,5 +18,6 @@ namespace Homework6
             Console.WriteLine(bankomat.GetMoney(requestedMoney));
             Console.ReadLine();
         }
+        //комментарий
     }
 }
